@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' last-migration='0800'>
+    <pages>
+        <page name='Reintroducing-Optionals'/>
+        <page name='Optional-Binding'/>
+        <page name='Optional-Chaining'/>
+        <page name='Dictionaries'/>
+        <page name='Challenge'/>
+        <page name='Extended-Challenge'/>
+    </pages>
+</playground>
