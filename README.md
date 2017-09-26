@@ -9,5 +9,6 @@ One of my private projects: Carpool College (iOS App Store): https://itunes.appl
 
 To test app, create an account with the fake domain: makeschooltestinger.edu
 
-IMPORTANT: Make sure your account address is within the same city to test with your peers
+IMPORTANT: Make sure your account address is within the same city to test with your peers.
+
 You may also contact me on LinkedIn if you wish (just don't stalk me): https://www.linkedin.com/in/oscar-c-6ba205139/
